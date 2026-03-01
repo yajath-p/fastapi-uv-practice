@@ -12,3 +12,6 @@ def read_item(item_id: int, q: str | None = None):
 
 def this_function_will_not_exist():
     print("delete")
+    
+def new_function():
+    print("new")
