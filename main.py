@@ -12,3 +12,6 @@ def read_item(item_id: int, q: str | None = None):
  
 def new_function():
     print("new")
+    
+def alt():
+    print(2+2)
