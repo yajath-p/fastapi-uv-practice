@@ -15,3 +15,6 @@ def new_function():
     
 def alt():
     print(2+2)
+    
+def alternate()
+    print("this is to differentiate which branch im on")
